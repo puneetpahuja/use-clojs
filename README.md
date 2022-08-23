@@ -1,2 +1,2 @@
-# use-clojs
-A sample lein app to use `clojs` library of Clojure (https://github.com/puneetpahuja/cloJS)
+# cloJS
+A sample lein app to use [`cloJS`](https://github.com/puneetpahuja/cloJS) library of Clojure 
